@@ -17006,5 +17006,3 @@ svg:not(:root).svg-inline--fa, svg:not(:host).svg-inline--fa {
 @container (min-width: 0) {
   .fa-wrapper .fa-fluid {
     font-size: 60cqi; } }
-
-/*# sourceMappingURL=main.css.map */
