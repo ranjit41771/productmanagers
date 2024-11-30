@@ -1,33 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on My New Hugo Site</title><link>https://productmanagers.ltd/posts/</link><description>Recent content in Posts on My New Hugo Site</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://productmanagers.ltd/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>How Rust Can Significantly Lower Cloud Costs on AWS, GCP, and Azure</title><link>https://productmanagers.ltd/posts/aws/</link><pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate><guid>https://productmanagers.ltd/posts/aws/</guid><description>&lt;p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-&lt;img class="img-fluid "
- src=""
- 
- 
- 
- 
- 
- alt="Rust Cost Efficiency">
-&lt;/p>
-&lt;p>Rust can save thousands of dollars, if not millions, over time.&lt;/p>
-&lt;p>As cloud computing continues to dominate the landscape of modern software deployment, developers and organizations are keenly focused on reducing cloud expenses while maintaining optimal performance. For many, the programming language chosen to build and deploy services can have a substantial impact on these costs. Rust, a systems programming language known for its speed, low memory usage, and safety, has emerged as an excellent choice for building cloud-native applications with a strong focus on reducing operating costs.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Product Manager</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Product Manager</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Rust Can Significantly Lower Cloud Costs on AWS, GCP, and Azure</title>
+      <link>http://localhost:1313/posts/aws/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aws/</guid>
+      <description>&lt;p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;    &#xA;&#xA;&#xA;&lt;img class=&#34;img-fluid &#34;&#xA;        src=&#34;&#34;&#xA;        &#xA;        &#xA;        &#xA;        &#xA;        &#xA;        alt=&#34;Rust Cost Efficiency&#34;&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Rust can save thousands of dollars, if not millions, over time.&lt;/p&gt;&#xA;&lt;p&gt;As cloud computing continues to dominate the landscape of modern software deployment, developers and organizations are keenly focused on reducing cloud expenses while maintaining optimal performance. For many, the programming language chosen to build and deploy services can have a substantial impact on these costs. Rust, a systems programming language known for its speed, low memory usage, and safety, has emerged as an excellent choice for building cloud-native applications with a strong focus on reducing operating costs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

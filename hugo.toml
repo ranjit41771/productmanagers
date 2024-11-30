@@ -1,5 +1,5 @@
 baseURL = 'https://productmanagers.ltd'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Product Manager'
 [[module.imports]]
 path = 'github.com/gethinode/hinode'
