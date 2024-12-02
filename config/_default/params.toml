@@ -1,0 +1,21 @@
+# [home]
+#     sections = ["blog"]
+#     fullCover = false
+#     centerHeadline = false
+#     style = ""
+
+[sections]
+    [sections.blog]
+        title = "Recent blog posts"
+        sort = "date"
+        reverse = false
+        nested = true
+        cols = 4
+        color = ""
+        padding = "0"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        style = "border-0 card-zoom"
+        homepage = 4
+        separator = true

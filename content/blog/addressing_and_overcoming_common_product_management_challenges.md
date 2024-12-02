@@ -2,6 +2,10 @@
 title: "Addressing and Overcoming Common Product Management Challenges"
 date: 2024-11-30
 draft: false
+thumbnail:
+    url: /img/sunrise.jpg
+    authorURL: https://unsplash.com/@hoanvokim
+    originName: Unsplash
 ---
 # Addressing and Overcoming Common Product Management Challenges
 

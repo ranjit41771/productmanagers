@@ -1,0 +1,13 @@
+# remove or disable the following three default menu entries
+[[social]]
+  name = "LinkedIn"
+  pre = "fab linkedin"
+  url = "https://linkedin.com/"
+  weight = 10
+
+[[social]]
+  name = "GitHub"
+  pre = "fab fa-github"
+  url = "https://github.com/"
+  weight = 20
+
