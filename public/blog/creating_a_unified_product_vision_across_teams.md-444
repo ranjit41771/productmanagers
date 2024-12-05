@@ -41,7 +41,6 @@ Encourage teams to collaborate across functions. Design, development, marketing,
 
 Leverage product management tools like [Leera App](https://leera.app) to streamline communication and project management across teams. Leera App’s intuitive interface and robust feature set make it ideal for teams looking to maintain a unified vision without the complexity of traditional tools.
 
-![Leera App Screenshot](https://leera.app/assets/screenshots/dashboard.png)
 
 ### 3. Develop a Clear Communication Plan
 
